@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldomatic&label=Profile%20views&color=0e75b6&style=flat" alt="aldomatic" /> </p>
 
-- 🔭 I’m currently working on [TheOliverBarks](https://theoliverbarks.com)
+- 🔭 I’m currently working on side project called [TheOliverBarks](https://oliverbarks.com)
 
 - 🌱 I’m currently learning **GenAI, K8s, Devops and more AWS**
 
