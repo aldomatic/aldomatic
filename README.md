@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldomatic&label=Profile%20views&color=0e75b6&style=flat" alt="aldomatic" /> </p>
 
-- 🔭 I’m currently working on [TheOliverBarks](theoliverbarks.com)
+- 🔭 I’m currently working on [TheOliverBarks](https://theoliverbarks.com)
 
 - 🌱 I’m currently learning **GenAI, K8s, Devops and more AWS**
 
-- 📝 I regularly write articles on [aldomatic.com](aldomatic.com)
+- 📝 I regularly write articles on [aldomatic.com](https://aldomatic.com)
 
 - 📫 How to reach me **aldo@aldomatic.com**
 
