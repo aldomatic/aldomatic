@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [aldomatic.com](https://aldomatic.com)
 
-- 📫 How to reach me **aldo@aldomatic.com**
+- 📫 How to reach me aldo@aldomatic.com
 
 - ⚡ Fun fact **I like pizza.**
 
